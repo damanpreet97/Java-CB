@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Crux2Sum2017/src/aug5/TTclient.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="aug5.TTclient"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="The Housing Development Finance Corporation Limited (HDFC) was amongst the first to receive an in principle approval from the Reserve Bank of India (RBI) to set up a bank in the private sector, as part of RBI's of the Indian Banking Industry in 1994.&#13;&#10;VISION&#13;&#10;1. HDFC bank is committed to maintaining the highest level of ethical standards, professional integrity, corporate governance and regulatory compliance.&#13;&#10;2. HDFC Bank’s business philosophy is based on five core values: Operational Excellence, Customer Focus, Product Leadership, People and Sustainability.&#13;&#10;&#13;&#10;MISSION&#13;&#10;1. HDFC Bank's mission is to be a World Class Indian Bank.&#13;&#10;2. The objective is to build sound customer franchises across distinct businesses so as to be the preferred provider of banking services for target retail and wholesale customer segments, and to achieve healthy growth in profitability, consistent with the bank's risk appetite."/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Crux2Sum2017"/>
+</launchConfiguration>

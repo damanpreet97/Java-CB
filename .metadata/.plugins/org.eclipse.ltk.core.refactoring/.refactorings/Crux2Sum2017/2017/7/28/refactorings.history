@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Crux2Sum2017/src/assgn8b/snakesANDladder.java&apos; to &apos;BoardWithLadders.java&apos;" description="Rename resource &apos;snakesANDladder.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/assgn8b/snakesANDladder.java" name="BoardWithLadders.java" stamp="1500059931528" updateReferences="true"/>
+</session>

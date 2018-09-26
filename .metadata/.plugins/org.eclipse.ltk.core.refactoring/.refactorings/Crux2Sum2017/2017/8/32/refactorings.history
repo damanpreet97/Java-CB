@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Crux2Sum2017/src/aug6/LinkedList.java&apos; to &apos;GenericLinkedList.java&apos;" description="Rename resource &apos;LinkedList.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/aug6/LinkedList.java" name="GenericLinkedList.java" stamp="1502008902757" updateReferences="true"/>
+</session>

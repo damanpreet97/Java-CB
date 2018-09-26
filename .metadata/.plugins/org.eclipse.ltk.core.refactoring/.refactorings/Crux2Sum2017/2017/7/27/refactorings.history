@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Crux2Sum2017/src/july7/mzpDiagSW.java&apos; to &apos;mzpDiagIterativeSW.java&apos;" description="Rename resource &apos;mzpDiagSW.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/july7/mzpDiagSW.java" name="mzpDiagIterativeSW.java" stamp="1499413583340" updateReferences="true"/>
+</session>

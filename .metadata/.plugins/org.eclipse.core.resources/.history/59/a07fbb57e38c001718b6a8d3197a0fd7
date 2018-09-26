@@ -1,0 +1,31 @@
+package Revision;
+
+import java.util.Scanner;
+
+public class PatternDiamond {
+
+	public static void main(String[] args) {
+		Scanner scn = new Scanner(System.in);
+		int n = scn.nextInt();
+		int row=0,col=0;
+		int nst=1,nsp=2;
+		
+		while(row<n){
+			int csp=0,cst=0;
+			while(csp<nsp){
+				System.out.println(" ");				
+				csp++;
+			}
+			while(cst<nst){
+				System.out.println("*");
+				cst++;
+			}
+			if(row>=n/2){
+				nst=cst*2+1;
+				nsp-=1;
+			}
+			
+		}
+	}
+
+}
